@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pedigree from old Andrew Barrett, Esq having seven sons, who made several feofments to several trustees in trust of all his estates to theuse [sic] of his last will, who made the said will in Dublin, July 9. 1613. and thereby intails all his estate upon Sir James Barrett his eldest son, and to his heirs male; and for want thereof, to the 2d, 3d, 4th, 5th, 6th, 7th sons, as by inquisitions, deeds and records, may, and will appear.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90356</idno>
+            <idno type="STC">Wing P1049B</idno>
+            <idno type="STC">ESTC R231930</idno>
+            <idno type="EEBO-CITATION">99897515</idno>
+            <idno type="PROQUEST">99897515</idno>
+            <idno type="VID">133301</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90356)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133301)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2504:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pedigree from old Andrew Barrett, Esq having seven sons, who made several feofments to several trustees in trust of all his estates to theuse [sic] of his last will, who made the said will in Dublin, July 9. 1613. and thereby intails all his estate upon Sir James Barrett his eldest son, and to his heirs male; and for want thereof, to the 2d, 3d, 4th, 5th, 6th, 7th sons, as by inquisitions, deeds and records, may, and will appear.</title>
+               </titleStmt>
+               <extent>4, 1, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Copy filmed at UMI microfilm Early English Books 1641-1700 reel 2504 imperfect, page 1 of last section has catchword: be-.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wills --  Legal status, laws, etc. --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="genealogy">
+            <pb facs="tcp:133301:1" rendition="simple:additions"/>
+            <head>The Pedigree from Old <hi>Andrew Barrett,</hi> Eſq having ſeven Sons, who made ſeveral Feofments to ſeveral Truſtees in Truſt of all his Eſtate to theuſe of his Laſt Will, who made the ſaid Will in <hi>Dublin, July</hi> 9. 1613. and thereby Intails all his Eſtate upon Sir <hi>James Barrett</hi> his eldeſt Son, and to his Heirs Male; and for want thereof, to the 2d, 3d, 4th, 5th, 6th, 7th Sons, as by Inquiſitions, Deeds and Records, may, and will appear.</head>
+            <p>
+               <hi>Old</hi> Andrew Barrett, <hi>Eſq and</hi> Katherine <hi>his Wife had ſeven Sons, as follows:</hi>
+            </p>
+            <list type="genealogy">
+               <item>Eldeſt Son, Sir <hi>James Barrett</hi> had Iſſue.
+<list>
+                     <item>Sir <hi>Andrew,</hi> who Married <hi>Barbara,</hi> the Siſter of Capt. St. <hi>Leger,</hi> who had Iſſue.
+<list>
+                           <item>Sir <hi>William Barrett</hi> who made the Will, and by which Will only Captain St. <hi>Leger</hi> claims his right, and by no other pretence.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Joanna Barrett,</hi> Daughter to Sir <hi>James,</hi> and Mar<g ref="char:EOLhyphen"/>ried <hi>James Coppin<g ref="char:EOLhyphen"/>ger.</hi>
+                        <list>
+                           <item>
+                              <hi>Mary Coppinger,</hi> who Married Sir <hi>John Mead.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>John Edmond,</hi> and <hi>William Barrett,</hi> be<g ref="char:EOLhyphen"/>ing the 2d, 3d, 4th Sons, Dyed with<g ref="char:EOLhyphen"/>out Iſſue Male.</item>
+               <item>Fifth Son, <hi>Richard Barrett,</hi> who had Iſſue.
+<list>
+                     <item>
+                        <hi>James Barrett,</hi> who had Iſſue.
+<list>
+                           <item>
+                              <hi>John Barrett</hi> the De<g ref="char:EOLhyphen"/>fendant being Heir inheritable, as well by the firſt Settle<g ref="char:EOLhyphen"/>ment, as by Sir <hi>William Barrett</hi> his Laſt Will, made in <hi>Briſtoll.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </item>
+               <item>Sixth Son, <hi>Robert Barrett,</hi> being yet alive, and hath by his Fathers Will and Settle<g ref="char:EOLhyphen"/>ment 10 <hi>l. per annum</hi> annuity, from every Heir inheritable, and received the ſame accordingly, and hath been, and is to this day paid by the now Appellant <hi>John Barrett,</hi> Eſq as being now Heir Intail.</item>
+               <item>Seventh Son, <hi>Andrew Barrett</hi> died without Iſſue Male</item>
+            </list>
+         </div>
+         <div type="will">
+            <opener>
+               <dateline>
+                  <hi>BRISTOLL,</hi> 
+                  <date>
+                     <hi>February</hi> 16. 1672.</date>
+               </dateline>
+            </opener>
+            <head>The Will of Sir <hi>William Barrett,</hi> by which alone Capt. <hi>John St. Leger</hi> Claims the Eſtate of <hi>John Barrett,</hi> Eſq is as followeth.</head>
+            <p>
+               <hi>THIS is to let the litigious and wrangling World know, That I leave</hi> (as Juſtice and my Con<g ref="char:EOLhyphen"/>ſcience tells me I ought) <hi>all my</hi> Eſtate <hi>that is Intailed to the Right and Lawful Heir; and that which is not Intailed, to my <g ref="char:V">Ʋ</g>ncle</hi> John St. Leger <hi>and his Heirs Males; but for want thereof,</hi> to return to the right Heir. <hi>I do alſo deſire that he</hi> will be Guardian to the youth, <hi>and breed him as well as he can; and if he prove good for any thing, diſpoſe of him as you think fit; if not, turn him amongſt the reſt. I do leave alſo to my <g ref="char:V">Ʋ</g>ncle</hi> John St. Leger, <hi>the remainder of Sir</hi> Richard Kirle <hi>his Bond, which is</hi> 100 <hi>l. and this laſt half years Rent, of which I have not received one penny: Out of this Money, pray pay</hi> 40 s. <hi>to Mr.</hi> Watſon, <hi>Goldſmith, and</hi> 12 l. <hi>to Mr.</hi> Danvers, <hi>Laceman, who lives in a little Alley beyond</hi> Somerſet-houſe, 40 l. <hi>to Mr.</hi> Poulin, <hi>Draper, at the ſign of the</hi> Raven <hi>in</hi> Fleetſtreet, <hi>and</hi> 46 s. <hi>to my Brother</hi> Warham; <hi>and I deſire further, in caſe you accept of this trouble, that during the youths minority, you reſerve out of the Eſtate</hi> 200 l. 100 l. <hi>to be paid to my Siſter</hi> Mary St. Leger <hi>upon the firſt day of her Marriage, and the other</hi> 100 l. <hi>to be paid to my Siſter</hi> Garthwright St. Leger <hi>on the firſt day of her Marriage, and to ſatisfie the Bonds for</hi> 50 l. <hi>that lay in</hi> Collonel St. Leger<hi>'s hands: and ſo I bid the world farewell, and leave this as my Laſt Will and Teſtament,</hi>
+            </p>
+            <closer>
+               <signed>William Barrett.</signed>
+
+               <signed>Being preſent at the Signing of this my Laſt Will and Teſta<g ref="char:EOLhyphen"/>ment,
+<list type="witness_list">
+                     <item>Ann Brinſden,</item>
+                     <item>John Field,</item>
+                     <item>George Turner.</item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>If you can, prefer this Servant, and give him <hi>10 l.</hi>
+               </p>
+               <p>As I always lived decently, pray bury me ſo:</p>
+            </postscript>
+            <postscript>
+               <p>This is a true Copy of the Original Will, Examined <hi>Febr.</hi> 28. 1672. by us, </p>
+               <closer>
+                  <signed>Ann Brinſden, George Turner, John Field.</signed>
+                  <signed>Tho. Hartwell, <hi>Not. Pub.</hi>
+                  </signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="trial_proceedings">
+            <pb n="2" facs="tcp:133301:2" rendition="simple:additions"/>
+            <head>The CASE of <hi>JOHN BARRETT,</hi> Eſq Appellant from a Decree made by the High Court of Chancery in <hi>Ireland,</hi> in a Cauſe there Depending, wherein <hi>John St. Leger,</hi> Eſq is Plaintiff, againſt the ſaid <hi>John Barrett,</hi> Defendant: <hi>Humbly Offered to the Conſideration of the Right Honourable the Lords Spiritual and Temporal in Parliament Aſſembled.</hi>
+            </head>
+            <p>SIR <hi>William Barrett</hi> being ſeized of ſeveral Mannors, Territories, Lands and Tenements of the yearly value of 1500 <hi>l.</hi> or thereabouts, if ſet to the real value, ſcituate, lying and be<g ref="char:EOLhyphen"/>ing in the County of <hi>Cork</hi> in <hi>Ireland,</hi> of an Eſtate Tail, with remainder in Tail to the Ap<g ref="char:EOLhyphen"/>pellant, and being alſo ſeized in Fee of divers other Lands and Tenements, did, <hi>Feb.</hi> 16. 1672, by the perſwaſion of his Landlady where he lodged, make his Laſt Will and Teſtament in Writing, whereby he left (as in Juſtice he ought to do) and did bequeath to the Appellant all his Intailed Eſtate; and his Eſtate in Fee-ſimple to the Reſpondent <hi>John St. Leger</hi> and his Heirs Male, with remainder over to the Appellant: made the Reſpondent Guardian to the Appellant, and ſhortly alter dyed.</p>
+            <p>After Sir <hi>William</hi>'s Death, the Appellant entred upon, and took poſſeſſion, by the Reſpondents per<g ref="char:EOLhyphen"/>miſſion, of all the Intailed Lands, and the Reſpondent entred poſſeſſion of thoſe which were fee-ſimple.</p>
+            <p>The Reſpondent alſo accepted (jointly with <hi>John Barrett</hi> the Appellants Uncle) of the Guardian<g ref="char:EOLhyphen"/>ſhip of the Appellant, and entered into Articles under Hand and Seal, faithfully to perform the Truſt of a Guardian Covenanted to ſue for the Writings relating to the ſaid Intailed Eſtate, and to ac<g ref="char:EOLhyphen"/>count to him for the Profits thereof, when he ſhould come of Age, and then to deliver him back his ſaid Eſtate and Truſt; in which Articles there is contained one, That the Appellant, when of age, ſhould intermarry with his Daughter, which certainly the Reſpondent <hi>St. Leger</hi> would not have covenanted to do, had he not known the Eſtate in Queſtion was Intailed, and belonged to the Appellant, who had not one Groat in the World beſide to depend upon.</p>
+            <p>Purſuant to which agreement, the Appellant lived with the Reſpondent a year, was and is a Pro<g ref="char:EOLhyphen"/>teſtant, and conſtantly went to Church, and the Reſpondent permitted the Appellant to receive the Rents and Profits of the Lands in queſtion, and in his Right, and as his Guardian Exhibited a Bill into the High Court of Chancery in <hi>Ireland,</hi> againſt the Reſpondents own Siſter, who was the Mother of Sir <hi>William Barrett;</hi> in which Bill he ſet forth all the Ancient Intails, under which the Appellant claims, and the Appellant's Title to the ſaid Eſtate in Queſtion; by which Suit he got into his poſſeſſion from his ſaid Siſter all the ancient Deeds and Writings, relating to the Appellants Title; which done, and the Appellant leaving him, and chuſing a new Guardian, be<g ref="char:EOLhyphen"/>cauſe he would not marry his Daughter; he the ſaid Reſpondent contrived how to Defraud him of all his Eſtate, and for that purpoſe took the method following.</p>
+            <p>He Exhibited a Bill in the High Court of Chancery in <hi>Ireland</hi> againſt the Appellant, thereby ſetting forth, that moſt of the Intailed Lands in Queſtion (and which then by the Reſpondents own permiſſion) was in the Appellants poſſeſſion) belonged to him; the ſaid Reſpondent for that they never were Intailed, but were Lands whereof Sir <hi>William Barrett</hi> dyed ſeized in Fee<g ref="char:EOLhyphen"/>ſimple, and had given to him by his Will aforeſaid, and to induce the Court to believe that the ſaid Lands were Fee-ſimple Lands, he ſet forth, that the ſame were the Inheritance of <hi>Katherine,</hi> the Wife of Old <hi>Andrew Barrett,</hi> who was Great Grandfather to Sir <hi>William Barrett</hi> and the Appel<g ref="char:EOLhyphen"/>lant, and that <hi>Andrew,</hi> their ſaid Great Grandfather, could not Intail the ſame; prayed to examine Witneſſes <hi>in perpetuam Rei memoriam,</hi> to prove the Will of his Teſtator, Sir <hi>William Barrett,</hi> whereby the ſame were devized to him and his Heirs.</p>
+            <p>To which Bill the Appellant anſwered, and denied all the Allegations thereof. Iſſue thereupon was joyned, Witneſſes examined, Publication paſt; And The Cauſe came to Hearing before his Grace the Lord Chancellor of <hi>Ireland,</hi>
+               <note place="margin">29 <hi>Nov.</hi> 1677,</note> when (and at ſeve<g ref="char:EOLhyphen"/>ral other Hearings thereof before) the Councels for the Appellant inſiſted, that the Will being proved, the Cauſe ought not to proceed any farther in that Court. That Court having no Juriſdiction thereof, it being a Queſtion of Free-hold and Inheritance, which is properly and only determinable at the Common Law.</p>
+            <p>Nevertheleſs his Lordſhip, upon the ſaid hearing, directed that a Tryal at Law ſhould be had upon one ſingle Iſſue.</p>
+            <p>
+               <hi>Viz.</hi> What Lands <hi>Andrew</hi> the Great Grandfather was ſeized of in Right of <hi>Katherine</hi> his Wife, and whether he made any Intails, and of what Lands.</p>
+            <p>To this Tryal neither the Appellant nor his Counſel ever gave their conſent, but were forced thereunto; nor did the Appellant conſent that a Jury ſhould be appointed by the Court of Chan<g ref="char:EOLhyphen"/>cery, but his Grace commanded the Sheriff to bring the Pannel of the County into the Court, where the ſame was named: the Foreman whereof Sir <hi>Richard Aldworth</hi> married his Grace's Neece, Sir <hi>Richard Hull</hi> was his Siſters Son, beſides theſe there were others related to his Grace, and the Reſpondent Impannelled; none of which the Appellant durſt preſume to accept againſt, becauſe of their Relation to his Grace, and his Graces Relation to the Reſpondent, who is Brother-in-law to the Earl of <hi>Inchiqueen,</hi> which Earl intermarried with his Grace's Siſter.</p>
+            <p>A Tryal upon the Iſſue aforeſaid was had,<note place="margin">28 <hi>Jan.</hi> 1677,</note> when the Jury found that <hi>Andrew Barrett,</hi> the Great Grandfather was ſeized in Right of <hi>Katherine</hi> his Wife of moſt of the Lands in Queſtion, and alſo many thouſand Acres of Land belonging to other perſons, which the Reſpondent did not Claim by the Bill (adding as followeth), <hi>viz.</hi> We do not find that the ſaid <hi>Andrew</hi> made any Intail.</p>
+            <pb n="3" facs="tcp:133301:2"/>
+            <p> After which Verdict, the Cauſe coming again to be re-heard, Exceptions were taken to the Pro<g ref="char:EOLhyphen"/>ceedings of that Court therein (and againſt the ſaid Verdict), for that</p>
+            <p n="1">1. The Court ought not to have proceeded in this Cauſe to direct the Tryal of any Iſſue whatſoever, nor otherwiſe than to have inabled the Reſpondent to prove the Will in Queſtion.</p>
+            <p n="2">2. The Iſſue was unreaſonable, Reſtraining the Appellant from the juſt Defence of his Right and Title, it being only to try whether <hi>Andrew</hi> the Great Grandfather made any Intail; whereas if Grandfather, the Father, or Sir <hi>William Barrett</hi> himſelf had Intailed the ſame, the Reſpondents pretended Right is bound thereby.</p>
+            <p n="3">3. The Iſſue was to try an Intail <hi>de Jure</hi> only; whereas an Intail <hi>de facto</hi> is ſufficient to make good the Appellants Title; and it is notorious that Sir <hi>William Barrett</hi> in his life-time lookt upon it as Intailed: and in his Anſwer to a Bill in Chancery, Exhibited againſt him in his life-time, Swore it was Intailed, and as ſuch deviſed it by Will to the Appellant, which Intail <hi>de facto</hi> is ſufficient to aſſertain the Appellants Title.</p>
+            <p n="4">4. The Verdict in it ſelf is uncertain as to the matter, for it only ſaith they did not find that <hi>Andrew Barrett</hi> made an Intail, but doth not ſay that <hi>Andrew Barrett</hi> made no Intail; and yet upon this Verdict, which recites but part of the Land in Queſtion. 5 <hi>July</hi> 1677, the Court of Chan<g ref="char:EOLhyphen"/>cery, notwithſtanding the Exceptions aforeſaid, proceeded to Decree from the Appellant, and to the Reſpondent all the Lands in Queſtion, without admitting him to a new Tryal, though moved for, and Affidavits made of new Evidence being found after the aforeſaid Tryal had; which Evi<g ref="char:EOLhyphen"/>dence, by the Reſpondents Art, were kept concealed till the ſaid Tryal was over. The Cauſe coming again to be heard,<note place="margin">4 <hi>May</hi> 1678,</note> his Grace called to his aſſiſtance the Lord Chief Baron, Mr. Juſtice <hi>Reynell,</hi> the former upon hearing Counſel on both ſides, declared the Cauſe was im<g ref="char:EOLhyphen"/>proper for that Court, and that both the Iſſue and Verdict were uncertain. His Grace (as by the Notes taken upon that days hearing appeareth) declared he was ſatisfied,<note place="margin">1 <hi>Feb.</hi> 1677,</note> Sir <hi>William Barrett</hi> believed there was an Intail, and that he intended ſomething to the Appellant by his Will, but what, was the Doubt. Whereupon he ordered a Reference, adviſed the Parties to agree, declaring, That if they did not, the Court had the Rains in their hands, and a Hank upon them both; adding, That if the Reſpondent ſhould inſiſt too much upon his Right, the Court would give the Appellant liberty to defend his Right at Law; and the Court has the Appel<g ref="char:EOLhyphen"/>lant in their power, if he ſhould inſiſt too much upon his Right. It having been found there is no Intail; whereupon the Court, in the Appellants abſence, without his conſent, and when he was above 100 Miles diſtant from <hi>Dublin,</hi> proceeded to make an Order of Referrence (the Reſpon<g ref="char:EOLhyphen"/>dent then preſent, and naming his Referee); by which Order it was directed, that the Appel<g ref="char:EOLhyphen"/>lant ſhould meet the Reſpondents Referree at <hi>Cork</hi> and there name his Referee to joyn with him, and the Court would make choice of an Umpire; but the Appellant (being adviſed by his Council, that it might hazard his Title, and injure the Heir in Remainder to attend the ſaid Referrence) never appeared: Whereupon for his Contempt, the Court awarded a Sequeſtration againſt all his Eſtate, before any final Decree made, which Sequeſtration was continued till <hi>December</hi> 1678. When his Grace re-heard the Cauſe, aſſiſted with ſix Judges; but before the Cauſe was entered upon, declared to the Judges, that they ſhould only ſpeak to the Conſtruction of the Will aforeſaid.</p>
+            <p>But not to the Juriſdiction of the Court.</p>
+            <p>Nor whether the Cauſe were properly Cognizable by that Court.</p>
+            <p>Nor whether the Iſſue tryed at Law were a proper Iſſue; nor whether the Verdict obtained upon that Tryal were certain: Nevertheleſs the Lord Chief Baron, Sir <hi>Richard Keneday,</hi> and Mr. Juſtice <hi>Jones</hi> delivered their Opinions poſitively.</p>
+            <p n="1">1. That the Reſpondents Bill ought to be Diſmiſt, for that Court had no Juriſdiction of the Cauſe; and gave as their Judgment, that upon the Will it ſelf the Matter of Law was for the Appellant.</p>
+            <p n="2">2. The Lord Chief Juſtice <hi>Booth,</hi> and Mr. Juſtice <hi>Johnſon</hi> delivered their Opinions, That al<g ref="char:EOLhyphen"/>lowing their former Proceedings to be regular, and that there was no Intail <hi>de Jure,</hi> or <hi>de facto;</hi> that then, and in ſuch caſe nothing paſt to the Appellant by the Will in Queſtion.</p>
+            <p>But Mr. Juſtice <hi>Reynell</hi> declared, That his Grace ought to proceed to Decree for the Reſpon<g ref="char:EOLhyphen"/>dent: Whereupon</p>
+            <p>His Grace declaring,<note place="margin">7 <hi>Feb.</hi> 1678,</note> That nothing the Judges delivered had prevailed with him to alter his Opi<g ref="char:EOLhyphen"/>nion, therefore Decreed all the Lands in Queſtion (being all the Eſtate the Appellant hath) to the Reſpondent; notwithſtanding the Verdict doth not extend to many of the Lands in the Re<g ref="char:EOLhyphen"/>ſpondents Bill mentioned; and for which his Grace upon former Hearings had declared the Re<g ref="char:EOLhyphen"/>ſpondent could have no Decree, yet the Reſpondent is like to be put into the poſſeſſion of the Eſtate which this Appellant and his Anceſtors have injoyed, and been poſſeſt of for many Hundred years laſt paſt.</p>
+            <p>And although it is mentioned, that the ſaid Decree ſhould be without prejudice to the Appellants having a new Tryal, in caſe he can find out any new Intail, yet is the Appellant ruined thereby: for, firſt, there never was any Intail, but what he hath now found, and moved for a new Tryal, becauſe kept from him at the former Tryals, and ſuch new Tryal denied.</p>
+            <p n="2">
+               <hi>2dly,</hi> For that as the Order is pen'd, if a new Intail ſhould be found, yet cannot the Appellant have a new Tryal, till he hath firſt performed the Decree, ſo that he muſt deliver the poſſeſſion of his Eſtate to the Reſpondent; which done, he hath not a penny to help himſelf, or wage Law againſt the Re<g ref="char:EOLhyphen"/>ſpondent for recovering of it back; beſides, the Reſpondent hath moſt of the Evidences that prove the Appellants Title in his poſſeſſion; ſo that if the Eſtate be Decreed his, and delivered to his poſ<g ref="char:EOLhyphen"/>ſeſſion, the Deeds relating to it belong to him alſo, and the Decree will warrant his deſtroying them; which being done, will put an utter impoſſibility upon the Appellant ever to prove his Titie, or re<g ref="char:EOLhyphen"/>cover back his Eſtate by any Tryal at Common Law, where the Reſpondent ought to ſue for his Right, if he have any, and not in Chancery.</p>
+            <pb n="4" facs="tcp:133301:3"/>
+            <p> From which Decree and Proceedings (for the Reaſons aforeſaid,<note place="margin">
+                  <hi>April</hi> 1679.</note> as well as for that the ſame is Illegal and Arbitrary, and tends to the ſubverting the due courſe of Tryals of Rights of Inheritance and Free-holds; and if led in Example and Preſident, may prove pernicious to the publick, and by conſequence, in a ſhort time, become the Deſtruction of Property) the Appellant addreſt to this Su<g ref="char:EOLhyphen"/>preme Court of Judicature and Fountain of Juſtice for Relief, and appealed from the Juriſdiction of the Court of Chancery in <hi>Ireland</hi> in this Cauſe, as well as from the Decree aforeſaid, and prayed the Reſpondent might Anſwer, and the Cauſe be heard, and he receive Relief agreeable to Juſtice, and that his poſſeſſion in the mean time might be quieted, which Appeal was ſigned by Serjeant <hi>Maynard,</hi> Sir <hi>Francis Pemberton,</hi> Sir <hi>Henage Finch,</hi> Sir <hi>Francis Winnington,</hi> and Mr. <hi>Keck.</hi>
+            </p>
+            <p>To this Appeal the Reſpondent anſwered, this Appelant replyed, and a re-joynder was put in, but the Reſpondent prevented a Hearing the laſt Parliament ſave on, by alledging all his Papers were in <hi>Ireland,</hi> when-as he came into <hi>England</hi> on purpoſe to attend the ſaid Appeal.</p>
+            <p>The Appellant from <hi>April</hi> 1679, till <hi>Aug.</hi> 1680, attended his Appeal in <hi>England,</hi> waiting for the Sitting of the laſt Parliament.</p>
+            <p>The Reſpondent delivered Appellants Tennents Declarations in Ejectment in <hi>Ireland,</hi>
+               <note place="margin">Eaſter-Term, <hi>1680,</hi>
+               </note> and preſt for a Tryal laſt Summer Aſſizes, when the Appellant, with all his Evidences, were in <hi>England</hi> waiting for the Seſſion of the laſt Parliament (by which be intended to have ſurprized him); but that was de<g ref="char:EOLhyphen"/>nied, and a Tryal at Bar directed to be had <hi>Michaelmas</hi>-Term laſt; accordingly a Jury came from the Country of <hi>Cork</hi> to try the Cauſe: Notice was given that the Tryal ſhould be had the <hi>22d</hi> of <hi>Novemb.</hi> 1680. 48 <hi>l.</hi> was Depoſited in Court by the Reſpondent to pay the Jury, and the Reſpondent upon Apellantsmotion in Chancery (that he might Elect which Court to proceed in, for that he ought not to have two Suits Depending in two ſeveral Courts at the ſame time, and for the ſame matter) choſe to proceed at Law, and his Bill in Chancery had been Diſmiſt, but that it was Exhibited to examine Witneſſes <hi>in perpetuam Rei Memoriam;</hi> ſo that the Appellant well hoped his Appeal had been at an end, it ſeeking only for Liberty to try his Title at Law; but the ſaid Reſpondent, becauſe the Court would not grant Liberty to Exemplifie the Depoſition of one Mrs. <hi>Brimſdom,</hi> Sir <hi>William Barretts</hi> Landlady examined by him at <hi>Briſtoll</hi> (who is now living), and to uſe the ſame at the ſaid Tryal (which was oppoſed by the Appellant, as being contrary to the Practice of the Court, therefore the Reſpondent would not proceed to Tryal; took his 48 <hi>l.</hi> out of Court, and moved, that the Suit might be diſcontinued; the laſt motion was denied, and the Suit is ſtill Depending, and ready for Tryal; but the Appellant by theſe means hath been put to vaſt charge, in going to <hi>Ireland,</hi> Feeing Counſel, providing and bringing Witneſſes to <hi>Dublin;</hi> and the Court of Exchequer 27 <hi>Nov.</hi> 1680, by Rule declared it was not the Appellants fault the Tryal was not heard laſt <hi>Michaelmas</hi>-Term.</p>
+            <p>Now the Reaſon why the Appellant inſiſted upon it by his Council, not to give way to the uſe of the Depoſition, deſired it as followeth.</p>
+            <p>The Reſpondent firſt Exhibited a Bill only to prove the Will in queſtion: To which the Appel<g ref="char:EOLhyphen"/>lant anſwered, and not oppoſing the proof thereof, ſuffered him to Examine Witneſſes <hi>Ex parte;</hi> one of which ſwore they ſaw him ſign, ſeal and publiſh the Will: and this was the Evidence he de<g ref="char:EOLhyphen"/>ſired to uſe at Law.</p>
+            <p>Afterwards the Reſpondent Exhibited his Bill againſt the Appellant, not only to Examine Wit<g ref="char:EOLhyphen"/>neſſes <hi>in perpetuam Rei memoriam,</hi> but alſo to have the Eſtate in queſtion decreed to him. In this Cauſe the Appellant joyn'd in Examining Witneſſes, and <hi>Croſs</hi> Examined the Witneſſes he deſired to make uſe of at Law; who ſwore not only the Will made and publiſhed, but alſo that it was done at her deſire; and that at the ſame time Sir <hi>William Barrett</hi> told her he had refuſed to make a Will before, though preſt thereto, for that his Eſtate was Intailed, and he left it to a poor boy in <hi>Ireland</hi> of his Name, to keep up the Name of his family; adding, That ſeeing God had given it him, he would not take it from him.</p>
+            <p>The Appellant never denied the making uſe of this perſons Teſtimony in the Cauſe, wherein the Decree was pronounced, and the Tryal aforeſaid directed, but offered to conſent thereunto; but the Reſpondent would have publiſht it in the firſt Cauſe, where Examined <hi>Ex parte;</hi> in which Cauſe never any farther proceeding was yet had: and this purpoſely to defeat the Appellant of the benefit of his croſs Examination; which the Appellant oppoſed, and the Court denied to Grant: Whereupon,</p>
+            <p>The Reſpondent leaving the Appellant in <hi>Ireland,</hi>
+               <note place="margin">20 <hi>Dec.</hi> 1680,</note> came to <hi>London.</hi>
+            </p>
+            <p>Petitioned this moſt Honourable Houſe for a hearing, alledging great damage by the Appellants delay, and obtained Order for the Cauſe to be heard 20 <hi>Jan.</hi> 1680, without any other notice to be gi<g ref="char:EOLhyphen"/>ven to the Appellant, then by the affixing up the Order upon the door of this moſt Honourable Houſe. The Appellant Petitioned,<note place="margin">14 <hi>Dec.</hi> 1680,</note> ſetting forth the Proceedings aforeſaid, and what delays and tricks had been uſed by the Reſpondent, that he was adviſed his Appeal was at an end by the Reſpondents chuſing to proceed at Law: Therefore prayed that he might not be ſurprized, offering, if he might have convenient time to come to a hearing, if your Lordſhips ſhould think fit to hear the Cauſe. Whereupon</p>
+            <p>It was Ordered the ſaid Cauſe ſhould be peremptorily heard the <hi>1ſt</hi> of <hi>February</hi> 1680.</p>
+            <p>Accordingly Sir <hi>Mathew Dean</hi> his Agent came into <hi>England</hi> 16th <hi>January</hi> 1680, found the Parliament Diſſolved, and hath ever ſince waited here in order to the hearing of his Cauſe before this moſt Honourable Houſe.</p>
+            <p>This being the third time Sir <hi>Matthew Dean,</hi> with the Records and Evidences to prove the Ap<g ref="char:EOLhyphen"/>pellants Title to the Eſtate in queſtion hath been hazarded at Sea; (which Evidence if loſt, the Appellants Title at Law can never be made out). The Appellant hath ſpent theſe ſix years in Suits to defend his Right above 4000 <hi>l.</hi> which hath put him into ſo great debts, that he cannot appear; and if the Cauſe be not determined by your Lordſhips, the ſame will be his, and his poſterities utter ruin. Therefore it is moſt humbly prayed this Cauſe may receive a determination before your Lordſhips this preſent Seſſions.</p>
+         </div>
+         <div type="will">
+            <pb n="1" facs="tcp:133301:3"/>
+            <head>Old <hi>Andrew Barrett,</hi> Eſq his Will, whereby he Intails all his Eſtate on his Seven Sons, and to their Heirs Males; who was great Grandfather to Sir <hi>William Barrett</hi> who made the Will in <hi>Briſtol,</hi> by which Capt. <hi>St. Leger</hi> claims only his Right; which aboveſaid Old <hi>Andrew</hi> was alſo Great Grandfather to the Appellant <hi>John Barrett,</hi> Eſquire.</head>
+            <p>
+               <hi>IN the Name of God, Amen,</hi> I <hi>Andrew Barret</hi> of <hi>Ballincolly</hi> in the County of <hi>Cork,</hi> Eſq being at this preſent God be praiſed in perfect health, and ready to de<g ref="char:EOLhyphen"/>part for <hi>England,</hi> have thought fit for avoiding of ſuch dangers and inconvenien<g ref="char:EOLhyphen"/>cies as might befall, do make this my Laſt Will and Teſtament for the direction of the Eſtate that it pleaſed God to lend me, and diſpoſing of the ſame in the beſt manner that in ſo ſhort a time I could call to mind. Firſt, I commend and commit my Body and Soul to Almighty God, whoſe Divine Spirit, Grace and Aſſiſtance, I humbly implore to guide, direct and accompany me for my defence againſt all wicked ſpirits, and the ſuggeſtions of my ſpiritual Enemy. And whereas I have Infeoffed my Couſin Mr. <hi>Patrick Roch Fitz Morice,</hi> by my Deed dated the ninth of this preſent month and year, of all the Mannors, Caſtles, Towns, Lands and Tenements, expreſſed and mentioned in the ſaid Deed, to the uſe and uſes of my laſt Will and Teſtament. And now my will is, that the ſaid <hi>Patrick</hi> his Heirs and Aſſigns, ſhall ſtand and be ſeized of all and ſingular the ſaid Mannors, Caſtles, Towns, Lands and Tenements, and Hereditaments, except ſuch Lands as I have paſt for my Wife <hi>Katharine Barrets</hi> Jointure during her life only, and ſuch Portions as I have made aſſurance of for my beloved Daughter <hi>Gennet Sarsfild,</hi> during the continuance thereof, and ſuch Mortgages as I have made and ſtand now in force during the continuance of the ſame to the uſe of payment of all debts that ſhall lawfully appear to the ſaid <hi>Patrick</hi> to be due upon me by ſpecialty or otherwiſe; and after taking order for ſuch payments, then to ſtand ſeized for preferment of both my Daughters, <hi>Ellen</hi> and <hi>Ellyne</hi> in manner following: <hi>Vid.</hi> for <hi>Ellen</hi> my Eldeſt Daughter whom I love, and offended me not, if ſhe ſhall be matched with the advice and conſent of her Mother, her brother <hi>James,</hi> and their friends, Three hundred pounds, I mean no <hi>Iriſh</hi> money, but the beſt Coyn; and for my Youngeſt Daughter <hi>Ellyne,</hi> whom I alſo love, matching as before, Two hundred pounds of the beſt Coyn. My Will is, that my Daughter <hi>Ellens</hi> Portion ſhall be increaſed to Two hundred pounds, which preferments are thus to be rated, <hi>vid.</hi> the Aids due upon my Tenements to be levied; and if her Match be to her friends liking, fifty pounds more, being duly raiſed of what ſhall remain to be paid out of the rents and profits of the ſaid Lands in this Mannor, <hi>vid.</hi> out of my Wifes Jointure (being too great for my Eſtate) if I had not great reſpect (as I ought to have of her) the third part of the ſaid overplus of preferments; and out and from my Son and Heir <hi>James Barrett</hi> two parts; and all the ſaid payments and preferments ſo paid, then my will is that the ſaid <hi>Patrick</hi> his Heirs and Aſſigns ſhall be ſeized of all the Premiſes, (except before excepted) and the four Plow-lands of <hi>Garriadin, Ballivillum, Ballivorinſe, Balluveran, Kileuomly,</hi> and <hi>Killmyllion,</hi> to the only uſe and behoof of my Son and Heir <hi>James Barrett</hi> &amp; to the Heirs Males lawfully by him to be begotten on the body of my loving Daughter <hi>Gennet Sarsfild,</hi> and for want of ſuch Heirs Males of the body of the ſaid <hi>Gennet</hi> by him, to the Heirs Males of his body on the body of any other Wife lawfully to be b<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gotten; and for want of ſuch Heirs Males of his body, to the uſe of <hi>John Barrett</hi> my ſecond Son, and the Heirs Males of his body lawfully to be begotten, and for want of ſuch Heirs Males of the ſaid <hi>John</hi>'s body, to the uſe of <hi>Edmond Barrett</hi> my third Son, and the Heirs Males of his body lawfully to be be<g ref="char:EOLhyphen"/>gotten; and for want of ſuch Heirs Males of the ſaid <hi>Edmonds</hi> body, to the uſe of <hi>Willi<g ref="char:EOLhyphen"/>am Barrett</hi> my fourth Son in like manner as before, if he become not a Prieſt or Spiritual man, as is intended; and if he become a Prieſt or Church-man, or otherwiſe want Heirs Males of his body lawfully begotten, then to the uſe of <hi>Richard Barrett</hi> my fifth Son, and the Heirs Males of his body lawfully to be begotten; and for want of ſuch Heirs Males of the ſaid <hi>Richard</hi>'s body, then to the uſe of <hi>Robert Barret</hi> my ſixth Son, and the Heirs Males of his body lawfully begotten or to be begotten; and for want of ſuch Heirs Males of the ſaid <hi>Robert</hi>'s body, to the uſe of <hi>Andrew Barret</hi> my ſeventh Son, and the Heirs Males of the ſaid <hi>Andrew</hi>'s body to be begotten; and for want of ſuch Iſſue, to the uſe of my right Heirs for ever. And further, my will is, that my ſaid Son and Heir <hi>James Barrett,</hi> ſhall after my Wifes death, and after determination of all other Eſtates in being <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
